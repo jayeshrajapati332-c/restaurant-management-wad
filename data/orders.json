@@ -1,0 +1,71 @@
+[
+  {
+    "id": "ORD-569317",
+    "createdAt": "2026-10-08T12:46:09.319Z",
+    "customer": {
+      "name": "goverdhan",
+      "phone": "6355033439",
+      "address": "jay ambe  hostel and pg",
+      "paymentMethod": "Cash On Delivery"
+    },
+    "items": [
+      {
+        "id": 3,
+        "name": "Dahi Ke Kebab",
+        "price": 260,
+        "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=500&auto=format&fit=crop&q=80",
+        "qty": 1
+      },
+      {
+        "id": 9,
+        "name": "Gulab Jamun with Rabri",
+        "price": 160,
+        "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=500&auto=format&fit=crop&q=80",
+        "qty": 1
+      }
+    ],
+    "subtotal": 420,
+    "tax": 21,
+    "deliveryFee": 40,
+    "total": 481,
+    "status": "Preparing"
+  },
+  {
+    "id": "ORD-039476",
+    "createdAt": "2026-10-08T12:20:39.476Z",
+    "customer": {
+      "name": "jayesh",
+      "phone": "832011222222",
+      "address": "asdd",
+      "paymentMethod": "Cash On Delivery"
+    },
+    "items": [
+      {
+        "id": 9,
+        "name": "Gulab Jamun with Rabri",
+        "price": 160,
+        "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=500&auto=format&fit=crop&q=80",
+        "qty": 1
+      },
+      {
+        "id": 5,
+        "name": "Dal Makhani Handi",
+        "price": 310,
+        "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=500&auto=format&fit=crop&q=80",
+        "qty": 1
+      },
+      {
+        "id": 3,
+        "name": "Dahi Ke Kebab",
+        "price": 260,
+        "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=500&auto=format&fit=crop&q=80",
+        "qty": 2
+      }
+    ],
+    "subtotal": 990,
+    "tax": 50,
+    "deliveryFee": 0,
+    "total": 1040,
+    "status": "Preparing"
+  }
+]

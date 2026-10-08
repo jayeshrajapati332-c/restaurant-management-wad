@@ -1,0 +1,13 @@
+{
+  "name": "restaurant-website",
+  "version": "1.0.0",
+  "description": "Complete Full-Stack Restaurant Website built with HTML, CSS, JavaScript and Node.js Backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["restaurant", "food-ordering", "table-reservation", "javascript", "nodejs"],
+  "author": "",
+  "license": "ISC"
+}

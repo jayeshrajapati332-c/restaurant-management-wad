@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Paneer Tikka Angaara",
+    "category": "starters",
+    "type": "veg",
+    "price": 280,
+    "rating": 4.8,
+    "description": "Cottage cheese cubes marinated in tandoori spices and charred to perfection in clay oven.",
+    "image": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?w=500&auto=format&fit=crop&q=80",
+    "popular": true
+  },
+  {
+    "id": 2,
+    "name": "Crispy Chilli Chicken",
+    "category": "starters",
+    "type": "non-veg",
+    "price": 340,
+    "rating": 4.9,
+    "description": "Golden fried succulent chicken tossed with bell peppers, garlic, and fiery schezwan sauce.",
+    "image": "https://images.unsplash.com/photo-1562967914-608f82629710?w=500&auto=format&fit=crop&q=80",
+    "popular": true
+  },
+  {
+    "id": 3,
+    "name": "Dahi Ke Kebab",
+    "category": "starters",
+    "type": "veg",
+    "price": 260,
+    "rating": 4.6,
+    "description": "Melt-in-mouth hung curd patties infused with fresh herbs and subtle spices.",
+    "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=500&auto=format&fit=crop&q=80",
+    "popular": false
+  },
+  {
+    "id": 4,
+    "name": "Butter Chicken Deluxe",
+    "category": "main",
+    "type": "non-veg",
+    "price": 420,
+    "rating": 5.0,
+    "description": "Slow-cooked boneless tandoori chicken simmered in rich velvety tomato cashew gravy.",
+    "image": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?w=500&auto=format&fit=crop&q=80",
+    "popular": true
+  },
+  {
+    "id": 5,
+    "name": "Dal Makhani Handi",
+    "category": "main",
+    "type": "veg",
+    "price": 310,
+    "rating": 4.8,
+    "description": "Classic black lentils simmered overnight with butter, cream, and aromatic spices.",
+    "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=500&auto=format&fit=crop&q=80",
+    "popular": true
+  },
+  {
+    "id": 6,
+    "name": "Shahi Paneer Lababdar",
+    "category": "main",
+    "type": "veg",
+    "price": 360,
+    "rating": 4.7,
+    "description": "Soft cottage cheese chunks cooked in rich onion-tomato sauce with grated cheese toppings.",
+    "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=500&auto=format&fit=crop&q=80",
+    "popular": false
+  },
+  {
+    "id": 7,
+    "name": "Dum Hyderabadi Biryani",
+    "category": "breads-rice",
+    "type": "non-veg",
+    "price": 390,
+    "rating": 4.9,
+    "description": "Fragrant basmati rice layered with tender meat, saffron, mint, and sealed with dough.",
+    "image": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?w=500&auto=format&fit=crop&q=80",
+    "popular": true
+  },
+  {
+    "id": 8,
+    "name": "Garlic Butter Naan",
+    "category": "breads-rice",
+    "type": "veg",
+    "price": 75,
+    "rating": 4.7,
+    "description": "Freshly baked tandoori leavened flatbread brushed with garlic butter and fresh coriander.",
+    "image": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?w=500&auto=format&fit=crop&q=80",
+    "popular": false
+  },
+  {
+    "id": 9,
+    "name": "Gulab Jamun with Rabri",
+    "category": "desserts",
+    "type": "veg",
+    "price": 160,
+    "rating": 4.9,
+    "description": "Warm golden khoya dumplings served over chilled thickened pistachio rabri.",
+    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=500&auto=format&fit=crop&q=80",
+    "popular": true
+  },
+  {
+    "id": 10,
+    "name": "Royal Saffron Rasmalai",
+    "category": "desserts",
+    "type": "veg",
+    "price": 180,
+    "rating": 4.8,
+    "description": "Delicate cottage cheese patties soaked in saffron and cardamom scented milk.",
+    "image": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=500&auto=format&fit=crop&q=80",
+    "popular": false
+  },
+  {
+    "id": 11,
+    "name": "Mango Lassi Special",
+    "category": "beverages",
+    "type": "veg",
+    "price": 140,
+    "rating": 4.9,
+    "description": "Chilled traditional yogurt smoothie blended with ripe Alphonso mangoes and nuts.",
+    "image": "https://images.unsplash.com/photo-1571006687087-9b2fdb18809a?w=500&auto=format&fit=crop&q=80",
+    "popular": true
+  },
+  {
+    "id": 12,
+    "name": "Virgin Blue Lagoon",
+    "category": "beverages",
+    "type": "veg",
+    "price": 170,
+    "rating": 4.6,
+    "description": "Refreshing mocktail with blue curacao, lime juice, sprite, and crushed ice.",
+    "image": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?w=500&auto=format&fit=crop&q=80",
+    "popular": false
+  }
+]
